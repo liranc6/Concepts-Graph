@@ -1,0 +1,10 @@
+numpy
+pandas
+tqdm
+matplotlib
+plotly
+torch
+kaggle
+requests
+beautifulsoup4
+scipy
