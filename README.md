@@ -1,4 +1,4 @@
-# Con Graph Project
+# Concepts Graph Project
 
 This project involves processing and analyzing a dataset of academic papers from arXiv, focusing on computer science concepts. The project includes several Jupyter notebooks for different tasks such as creating subsets of the dataset, building graphs, and visualizing the data.
 
